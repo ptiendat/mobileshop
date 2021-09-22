@@ -1,4 +1,5 @@
 <?php
+// test git
 if(isset($_POST['sbm'])){
     $check=true;
     $prd_name=$_POST['prd_name'];
